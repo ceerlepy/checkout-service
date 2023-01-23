@@ -1,4 +1,4 @@
-import { PromotionRule } from "../Promotion/Promotion";
+import { PromotionRule } from "./Promotion";
 
 export class Money {
     constructor(value:number){

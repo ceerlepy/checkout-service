@@ -1,4 +1,4 @@
-import { Checkout, Money } from "../Product/CheckoutProduct";
+import { Checkout, Money } from "./CheckoutProduct";
 
 export abstract class PromotionRule {
     priority: number;
